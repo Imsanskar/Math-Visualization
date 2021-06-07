@@ -8,10 +8,10 @@ A bunch of enthusiasts collecting math visualization videos. Check out more in i
 ![lorenz system along x and y](https://github.com/Imsanskar/Math-Visualization/blob/main/images/lorenzin2d.png)  
 
 ## The Mystery Curve
-The plot is made on complex plot; x representing the real axis and y the imaginary axis, as in x+iy.
+The plot is made on a complex plane; x representing the real axis and y the imaginary axis, as in x+iy.
 ![image of the mystery curve](https://github.com/Imsanskar/Math-Visualization/blob/main/images/mysteryCurve.png)
 
 
-A random curve is traced everytime you run this script. A complex plane plot with points x+iy.
+A random curve is traced everytime you run this script. A complex plane with points x+iy.
 ## Exponential Sum Curve
 ![image of a random exponential sum curve](https://github.com/Imsanskar/Math-Visualization/blob/main/images/randomExpoCurve1.png)
