@@ -2,7 +2,7 @@
 A bunch of enthusiasts collecting math visualization videos. Check out more in images and videos folder.  
 
 ## Bifurcation  
-![bifurcation image](https://github.com/Imsanskar/Math-Visualization/blob/main/images/bifurcation.png){:height="50%" width="50%"}    
+![bifurcation image](https://github.com/Imsanskar/Math-Visualization/blob/main/images/bifurcation.png&s=200){:height="50%" width="50%"}    
 
 ## Lorenz System 2d
 ![lorenz system along x and y](https://github.com/Imsanskar/Math-Visualization/blob/main/images/lorenzin2d.png){:height="50%" width="50%"}    
