@@ -14,3 +14,8 @@ The plot is made on a complex plane; x representing the real axis and y the imag
 A random curve is traced everytime you run exponentialSums.py. A whole video of 200 random exponential curves is rendered by hypotrochoidDances.py.
 ## Exponential Sum Curve
 ![image of a random exponential sum curve](https://github.com/Imsanskar/Math-Visualization/blob/main/images/randomExpoCurve1.png)
+
+
+## Epicycles Concept
+![batcycle](https://github.com/Imsanskar/Math-Visualization/blob/main/images/batcycle.png)  
+Check instruction.txt in epicyclesDrawing folder for information about how it is drawn.
