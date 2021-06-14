@@ -1,0 +1,8 @@
+The batman.py draws the user's desired shape using the concept of epicycles. The points lying on the curve for the user desired shape are present in their respective txt files. Then DFT is used to find the fourier coefficients of the shape to be drawn. The utility function does just this; it contains function to compute DFT as well as to convert the comma separated x and y values of the points into the form that can be used more easily. 
+
+If you have a SVG file and then you can create points in the curve's path using this site https://shinao.github.io/PathToPoints/
+Copy the path points into a txt file, place it in the same directory and pass the filename into the 'functionPoints' function in batman.py. 
+
+Todo: Take SVG files as input and derive datapoints.
+      Draw the circles involved in epicycles(if it doesn't clutter the whole diagram)
+
