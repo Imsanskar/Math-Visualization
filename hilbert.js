@@ -4,6 +4,7 @@ const canvasHeight = 1000;
 
 let mainarr = [];
 
+//to rotate the line about a fixed point
 function myrotation(x,y,theta,fixedx = 0, fixedy = 0){
     rad = theta * Math.PI/180
     xplus = fixedx* (1-Math.cos(rad)) + fixedy * Math.sin(rad);
@@ -100,6 +101,7 @@ function hilb()
 
     let prod_rules = {'A':'+BF-AFA-FB+','B':'-AF+BFB+FA-'} 
 
+    //give a number n+1 for n degree of hilbert curve
     let iterations = 7; //no of times the production rule must be replaced
 
     let temp = '';
